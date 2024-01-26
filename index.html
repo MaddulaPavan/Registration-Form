@@ -182,7 +182,6 @@ document.addEventListener("DOMContentLoaded", function () {
             return false; // Prevent form submission
         }
 
-        // Create a new row in the table to display the entered data
         var table = document.getElementById("data-table");
         var newRow = table.insertRow(table.rows.length);
         var cell1 = newRow.insertCell(0);
@@ -195,7 +194,6 @@ document.addEventListener("DOMContentLoaded", function () {
         cell3.innerHTML = password;
         cell4.innerHTML = dob;
 
-        // Clear the form after submitting
         document.getElementById("userForm").reset();
     });
 });
