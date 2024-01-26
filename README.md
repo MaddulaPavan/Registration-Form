@@ -5,10 +5,10 @@ Welcome to the Registration Page repository! This project delivers a sleek and u
 
 **Key Features**
 
-Responsive Design:  Enjoy a visually appealing layout that adapts to various screen sizes.
-Form Validation:  JavaScript ensures all required fields are filled, providing a seamless user experience.
-Dynamic User Tracking:  Registered users are dynamically added to a table for easy reference and management.
-Stylish Background:  The backdrop-filter feature creates a blurred effect on the stylish background image.
+Responsive Design:  Enjoy a visually appealing layout that adapts to various screen sizes. <b>
+Form Validation:  JavaScript ensures all required fields are filled, providing a seamless user experience.<b>
+Dynamic User Tracking:  Registered users are dynamically added to a table for easy reference and management.<b>
+Stylish Background:  The backdrop-filter feature creates a blurred effect on the stylish background image.<b>
 Getting Started
 Clone the repository to your local machine:
 
